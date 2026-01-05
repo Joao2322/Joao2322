@@ -1,16 +1,45 @@
-## Hi there 👋
+## Olá! Eu sou o João Pedro Dutra 👋🏻
 
-<!--
-**Joao2322/Joao2322** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Análise e Desenvolvimento de Sistemas, com formação técnica em ADS pelo SENAI e graduação em andamento no Senac.  
+Atualmente, estou focado em desenvolvimento front-end, criando projetos com HTML, CSS e JavaScript, e buscando minha primeira oportunidade na área de TI.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_USUARIO/)
+
+---
+
+### 💻 Tecnologias que estudo e utilizo
+- HTML5  
+- CSS3  
+- JavaScript  
+- Lógica de Programação  
+- Git e GitHub  
+
+---
+
+### 📊 GitHub Stats
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Joao2322&show_icons=true&theme=github_dark&cache_seconds=1800" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao2322&layout=compact&theme=github_dark&cache_seconds=1800" />
+
+</div>
+
+---
+
+### 📌 Projetos em destaque
+- **SiteEco** — Projeto front-end de um site com foco em sustentabilidade  
+  Tecnologias: HTML, CSS e JavaScript  
+  🔗 https://github.com/Joao2322/SiteEco
+
+- **Tela de Login** — Interface simples de autenticação  
+  Tecnologias: HTML e CSS  
+  🔗 https://github.com/Joao2322/telalogin
+
+---
+
+### 🚀 Objetivo
+Aplicar meus conhecimentos em um ambiente profissional, aprender com a prática e evoluir constantemente na área de desenvolvimento de software.
