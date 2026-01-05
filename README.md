@@ -31,13 +31,16 @@ Atualmente, estou focado em desenvolvimento front-end, criando projetos com HTML
 ---
 
 ### 📌 Projetos em destaque
-- **SiteEco** — Projeto front-end de um site com foco em sustentabilidade  
-  Tecnologias: HTML, CSS e JavaScript  
+
+- **Projeto Final – SENAI**  
+  Projeto desenvolvido como trabalho final do curso Técnico em Análise e Desenvolvimento de Sistemas no SENAI.  
+  Tecnologias utilizadas: HTML, CSS, JavaScript e lógica de programação.  
+  🔗 https://github.com/Joao2322/ProjetoFinal
+
+- **SiteEco**  
+  Projeto front-end com foco em sustentabilidade, desenvolvido para praticar HTML, CSS e JavaScript.  
   🔗 https://github.com/Joao2322/SiteEco
 
-- **Tela de Login** — Interface simples de autenticação  
-  Tecnologias: HTML e CSS  
-  🔗 https://github.com/Joao2322/telalogin
 
 ---
 
