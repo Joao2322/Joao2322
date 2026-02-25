@@ -1,4 +1,4 @@
-## Olá! Eu sou o João Pedro Dutra 👋🏻
+## Olá! Eu sou o João Pedro Dutra de Lima 👋🏻
 
 Sou estudante de Análise e Desenvolvimento de Sistemas, com formação técnica em ADS pelo SENAI e graduação em andamento no Senac.  
 Atualmente, estou focado em desenvolvimento front-end, criando projetos com HTML, CSS e JavaScript, e buscando minha primeira oportunidade na área de TI.
@@ -11,11 +11,12 @@ Atualmente, estou focado em desenvolvimento front-end, criando projetos com HTML
 ---
 
 ### 💻 Tecnologias que estudo e utilizo
-- HTML5  
-- CSS3  
-- JavaScript  
+- HTML
+- CSS 
+- JavaScript
+- Java
 - Lógica de Programação  
-- Git e GitHub  
+- Git e GitHub 
 
 ---
 
@@ -25,8 +26,6 @@ Atualmente, estou focado em desenvolvimento front-end, criando projetos com HTML
 ![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joao2322&show_icons=true&theme=radical&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao2322&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Joao2322&theme=radical)
 
 </div>
 
