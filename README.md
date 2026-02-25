@@ -6,7 +6,7 @@ Atualmente, estou focado em desenvolvimento front-end, criando projetos com HTML
 ---
 
 ### 🌐 Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_USUARIO/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaopedrodutra/)
 
 ---
 
@@ -22,9 +22,11 @@ Atualmente, estou focado em desenvolvimento front-end, criando projetos com HTML
 ### 📊 GitHub Stats
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Joao2322&show_icons=true&theme=github_dark&cache_seconds=1800" />
+![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joao2322&show_icons=true&theme=radical&count_private=true)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao2322&layout=compact&theme=github_dark&cache_seconds=1800" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao2322&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Joao2322&theme=radical)
 
 </div>
 
@@ -40,7 +42,6 @@ Atualmente, estou focado em desenvolvimento front-end, criando projetos com HTML
 - **SiteEco**  
   Projeto front-end com foco em sustentabilidade, desenvolvido para praticar HTML, CSS e JavaScript.  
   🔗 https://github.com/Joao2322/SiteEco
-
 
 ---
 
