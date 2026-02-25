@@ -12,22 +12,11 @@ Atualmente, estou focado em desenvolvimento front-end, criando projetos com HTML
 
 ### 💻 Tecnologias que estudo e utilizo
 - HTML
-- CSS 
+- CSS
 - JavaScript
-- Java
+- JAVA
 - Lógica de Programação  
-- Git e GitHub 
-
----
-
-### 📊 GitHub Stats
-<div align="center">
-
-![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joao2322&show_icons=true&theme=radical&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao2322&layout=compact&theme=radical)
-
-</div>
+- Git e GitHub  
 
 ---
 
