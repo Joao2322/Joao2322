@@ -1,7 +1,7 @@
 ## Olá! Eu sou o João Pedro Dutra de Lima 👋🏻
 
 Sou estudante de Análise e Desenvolvimento de Sistemas, com formação técnica em ADS pelo SENAI e graduação em andamento no Senac.  
-Atualmente, estou focado em desenvolvimento front-end, criando projetos com HTML, CSS e JavaScript, e buscando minha primeira oportunidade na área de TI.
+Atualmente, estou explorando e aprimorando meus conhecimentos em linguagens como Java, C, C++ e Python, desenvolvendo projetos e buscando evoluir cada vez mais na área de tecnologia.
 
 ---
 
@@ -11,12 +11,15 @@ Atualmente, estou focado em desenvolvimento front-end, criando projetos com HTML
 ---
 
 ### 💻 Tecnologias que estudo e utilizo
-- HTML
-- CSS
-- JavaScript
-- JAVA
-- Lógica de Programação  
-- Git e GitHub  
+
+* Java
+* C
+* C++
+* Python
+* JavaScript
+* Lógica de Programação
+* Git e GitHub
+ 
 
 ---
 
